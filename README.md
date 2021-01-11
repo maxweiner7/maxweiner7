@@ -11,7 +11,10 @@
 
 <b> Flutter  
 Kotlin   
+Spring Boot
+Java
 Firebase 
+mySql
 </b>
 
 
